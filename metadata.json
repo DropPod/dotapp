@@ -1,0 +1,9 @@
+{
+  "name": "DropPod/dotapp",
+  "version": "0.0.0",
+  "summary": "A versatile Puppet package provider for OS X Applications",
+  "source": "https://github.com/DropPod/dotapp.git",
+  "author": "Pieter van de Bruggen",
+  "license": "MIT",
+  "dependencies": []
+}
